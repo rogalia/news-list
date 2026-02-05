@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "imgUrl": "https://greggvanourek.com/wp-content/uploads/2023/08/Nature-path-by-water-trees-and-mountains-AdobeStock_291242770-scaled.jpeg",
+        "title": "Markets on edge as global inflation concerns return",
+        "desc": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+        "author": {
+            "firstName": "Robert",
+            "lastName": "Rodriguez"
+        },
+        "createdAt": 1770240426000
+    },
+    {
+        "id": 1,
+        "imgUrl": "https://greggvanourek.com/wp-content/uploads/2023/08/Nature-path-by-water-trees-and-mountains-AdobeStock_291242770-scaled.jpeg",
+        "title": "Tech giants face growing pressure over AI regulation",
+        "desc": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+        "author": {
+            "firstName": "Tom",
+            "lastName": "Holland"
+        },
+        "createdAt": 1770333333000
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://greggvanourek.com/wp-content/uploads/2023/08/Nature-path-by-water-trees-and-mountains-AdobeStock_291242770-scaled.jpeg",
+        "title": "Healthcare systems adapt to rising demand for mental health support",
+        "desc": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+        "author": {
+            "firstName": "Robert",
+            "lastName": "Rodriguez"
+        },
+        "createdAt": 1778888426000
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://greggvanourek.com/wp-content/uploads/2023/08/Nature-path-by-water-trees-and-mountains-AdobeStock_291242770-scaled.jpeg",
+        "title": "Electric vehicle sales slow amid charging infrastructure concerns",
+        "desc": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+        "author": {
+            "firstName": "Will",
+            "lastName": "Buyers"
+        },
+        "createdAt": 1770240426000
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://greggvanourek.com/wp-content/uploads/2023/08/Nature-path-by-water-trees-and-mountains-AdobeStock_291242770-scaled.jpeg",
+        "title": "Major streaming platforms rethink content strategies",
+        "desc": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+        "author": {
+            "firstName": "Robert",
+            "lastName": "Rodriguez"
+        },
+        "createdAt": 1770247676000
+    },
+    {
+        "id": 5,
+        "imgUrl": "https://greggvanourek.com/wp-content/uploads/2023/08/Nature-path-by-water-trees-and-mountains-AdobeStock_291242770-scaled.jpeg",
+        "title": "Severe weather disrupts travel across parts of Europe",
+        "desc": "Investors remain cautious as new economic data revives fears of prolonged inflation and slower global growth.",
+        "author": {
+            "firstName": "Will",
+            "lastName": "Buyers"
+        },
+        "createdAt": 1770240426000
+    }
+]
