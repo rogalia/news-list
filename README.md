@@ -9,5 +9,6 @@
 "What I will do, if I have more time"
 - Add loadings and errors handlings
 - Polish of mobile designs and adaptivity
+- Add tests
 - Recheck linters warnings
 - Tune boilerplate, such things as linters rules and so on.
