@@ -14,7 +14,7 @@
     </p>
 
     <div class="news-item__footer">
-      <Calendar class="news-item__footer-icon" />
+      <CalendarIcon class="news-item__footer-icon" />
       {{ displayedTime }}
       <span>|</span>
       {{ item.author.firstName }} {{ item.author.lastName }}
@@ -23,17 +23,15 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
-
 import type { NewsItem } from '@/types/News.ts';
 
 const props = defineProps<{
   item: NewsItem;
 }>();
 
-import Calendar from '@/assets/svg/calendar.svg';
+import CalendarIcon from '@/assets/svg/calendar.svg';
 
-const displayedTime = computed(() => new Date(props.item.createdAt).toLocaleDateString('uk-UA'));
+const displayedTime = new Date(props.item.createdAt).toLocaleDateString('uk-UA');
 </script>
 
 <style scoped>

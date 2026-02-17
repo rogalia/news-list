@@ -17,7 +17,7 @@ import { useUserStore } from '@/stores/user';
 const userStore = useUserStore();
 
 const loadUser = async () => {
-  userStore.user = await getUser();
+  userStore.setUser(await getUser());
 };
 
 loadUser();
